@@ -3,7 +3,7 @@ layout: post
 title: "Who Accused you of Rape"
 ---
 
-![You are not a victim](/assets/who-raped-you.jpg)
+![You are not a victim](/assets/who-raped-you.jpeg)
 
 
 He who brings a rape accusation has the burden of proof:
