@@ -6,4 +6,5 @@ permalink: /Posts/
 
 [View all posts](/)
 
+
 [The power of a Single Mail](/_posts/2025-12-31-the-power-of-a-single-mail.md)
