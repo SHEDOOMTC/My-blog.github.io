@@ -5,3 +5,5 @@ permalink: /Posts/
 ---
 
 [View all posts](/)
+
+[The power of a Single Mail](/
