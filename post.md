@@ -10,5 +10,5 @@ permalink: /Posts/
 [The power of a Single Mail](/_posts/2025-12-31-the-power-of-a-single-mail.md)
 
 
-[Who Accused you of Rape](/_posts/2026-02_20-Who-raped-you.md)
+[Who Accused you of Rape](/_posts/2026-02-20-Who-raped-you.md)
 
