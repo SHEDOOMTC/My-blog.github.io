@@ -23,3 +23,14 @@ A future where we stretch the laws of physics to the limit; where we apply scien
 
 Because, when we get there, we will suddenly realize that all the limitations around us were in our minds and were never realities
 
+
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>{{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
