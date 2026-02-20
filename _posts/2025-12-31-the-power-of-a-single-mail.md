@@ -2,7 +2,12 @@
 layout: post
 title: "The Power of a Single Mail"
 ---
+
+-------------
+
 ![A singgle mail story](/assets/My_QPHRF_profile.jpg)
+
+-------------
 
 A single mail brought me here unplanned!
 
