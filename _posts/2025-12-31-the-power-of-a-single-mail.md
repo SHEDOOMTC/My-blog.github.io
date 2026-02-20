@@ -8,7 +8,7 @@ A single mail brought me here unplanned!
 
 In 2023, while serving my country in Ekiti State, Nigeria, I was invited by *Frontiers in Pharmacology* to host a research topic in Pharmacoepidemiology.
 
-They must have seen the paper I had just published with Evaristus Odoh, Gerald Ozota, et al. on Adverse Drug Reporting among Pharmacist Interns in Nigeria ([link](https://lnkd.in/dahQjBwR)).
+They must have seen the paper I had just published with Evaristus Odoh, Gerald Ozota, et al. on [Adverse Drug Reporting among Pharmacist Interns in Nigeria](https://lnkd.in/dahQjBwR)).
 
 Excited to contribute to this field, I went on a hunt for topic editors 😊. That’s where I hit the rock. 
 
@@ -25,4 +25,4 @@ Every time I sit at my table designing forms, sending or replying to emails, I r
 Let’s all get ready for when the call comes knocking!
 
 
-This post was initally made on my LinkedIn page ([here](https://www.linkedin.com/posts/shadrach-eze-b-pharm-2090b3175_a-single-mail-brough-me-here-unplanned-activity-7390587346842353664-8ZdY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACl7oGkBXErfOE5iF-1RMKyrAgLT19GR77M))
+This post was initally made on my [LinkedIn page](https://www.linkedin.com/posts/shadrach-eze-b-pharm-2090b3175_a-single-mail-brough-me-here-unplanned-activity-7390587346842353664-8ZdY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACl7oGkBXErfOE5iF-1RMKyrAgLT19GR77M))
